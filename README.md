@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="nicolasjott.com">
+  <a href="https://nicolasjott.com">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4T6WTv6uBYRTHP4T8H4rBiCSDDAZlFQMbIiabbt1IJj+SyGCwGGQ2yI+/gDJQFqVswkrX4vaeQjd3uK53eTvP8z2f5znfcx4V8Al8ADpe+y5AQQV8/SP5dtRFAVxfO/inWgBWqxW73U6j0ZBdnU5HPp+XeLvdotFoSCQSOJ1Ojscj9Xqd1WolWgGEw2EikQgul0sWFXE0GsVisXC9XimVSng8HvmbzWZisRgmk4n9fv8M0Ov1rNdr4vE4/X5fgJvNRpJGo5HEs9lMYN1u9xmQTqfx+/04HI57sbvdDp/Px3Q6lbXJZEKn06Hdbj8ACnE4HOL1egmFQgwGg9cAmUyGXC5HNpul2WxSq9VeA9xMDAaDVCoVDAYD5/NZIH8q4QZQq9UsFgtarRbVavVuotKV8XgsseJFuVz+3URFEAgEJFm5xel0ErHb7aZYLEobk8kkRqPx0UabzSau3+pWblEoFOj1esznc7RaLalUSgbpcDjIIC2Xy8cgvTvKbz+mt57zN2Iu1/Pn0ZHoAAAAAElFTkSuQmCC"/>
   </a>
   <a href="mailto://njott@student.ysu.edu">
